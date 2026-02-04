@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+#data
+data/raw/
+data/processed/
+*.csv
+*.txt
+
+# System
+.DS_Store
+Thumbs.db
