@@ -26,6 +26,7 @@ pip install ipykernel  # Bắt buộc để chạy Notebook trong môi trường
 ```
 
 ## 3. How to Run
+- Bước 0: Trước khi chạy cần giải nén file data.zip
 - Bước 1: Tiền xử lý dữ liệu
 Chuyển dữ liệu log thô thành dữ liệu metrics để huấn luyện và mô phỏng autoscaling.
 ```bash
