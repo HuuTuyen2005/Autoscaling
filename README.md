@@ -21,8 +21,8 @@ venv\Scripts\activate      # Windows
 
 Cài đặt các thư viện cần thiết:
 ```bash
+python -m pip install --upgrade pip
 pip install -r requirements.txt
-pip install ipykernel  # Bắt buộc để chạy Notebook trong môi trường ảo
 ```
 
 ## 3. How to Run
