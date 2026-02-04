@@ -50,7 +50,7 @@ streamlit run dashboard/app.py
 ```
 
 ## 4. Project Structure
-
+```text
 AUTOSCALING-ANALYSIS/
 ├── dashboard/
 │   └── app.py              # File chính chạy giao diện Dashboard
